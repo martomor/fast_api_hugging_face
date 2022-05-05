@@ -18,7 +18,7 @@ Clone this repository to your local environment. Once you you do that run the be
 
 `docker run -dp 8000:8000 fast_api_hug`
 
-Thats it! atfer a minute or so you should be able to access the service on port 8000: http://0.0.0.0:8000/docs
+Thats it! atfer a minute or so you should be able to access the service on port 8000: http://localhost:8000/docs
 
 
 
