@@ -6,7 +6,7 @@ Provide a word as input and the model will reply back with the sentiment estimat
 
 Clone this repository to your local environment. Once you you do that run the below commands:
 
-### Move to you repo
+### Move to your repo
 
 `cd fast_api_hugging_face`
 
