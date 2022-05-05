@@ -10,7 +10,7 @@ Clone this repository to your local environment. Once you you do that run the be
 
 `cd fast_api_hugging_face`
 
-### For buidling the docker image:
+### For building the docker image:
 
 `docker build -t fast_api_hug .`
 
